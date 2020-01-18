@@ -11,6 +11,10 @@ __pycache__/
 # C extensions
 *.so
 
+#Pycharm Folders
+.idea
+.idea/*
+
 # Distribution / packaging
 .Python
 build/
